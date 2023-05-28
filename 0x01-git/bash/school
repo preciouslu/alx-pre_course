@@ -1,2 +1,2 @@
-#!/bin/bas
-echo "The school is open!l"
+#!/bin/bash
+echo"The school is open!l"
